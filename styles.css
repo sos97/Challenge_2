@@ -142,9 +142,10 @@ h5{
 	color: #B2B8A3;
 }
 .heading{
-
+    width: auto;
 	font-weight: lighter;
 	margin-bottom: 0;
+	font-size: 1.5rem;
 }
 p{
 	color: #B2B8A3;
@@ -156,6 +157,7 @@ p{
 .second_heading{
 	margin-top: 0;
 	margin-bottom: 0;
+	font-size: 1.5rem;
 }
 
 .left{
